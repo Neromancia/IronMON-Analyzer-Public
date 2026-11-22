@@ -4,7 +4,7 @@
   <img src="images/ironmon-analyzer.png" width="300" alt="IronMON Analyzer">
 </p>
 
-# IronMON Analyzer — V1.0.0
+# IronMON Analyzer — V1.0.8
 
 **Un compagnon gratuit pour vos runs IronMON, développé par Neromancia.**
 
@@ -12,20 +12,29 @@ Suivez votre Pokémon, comparez vos attaques, explorez les cartes et gardez une 
 
 **[Site officiel et téléchargement](https://ironmonanalyzer.com/) · [Guide d’installation](https://ironmonanalyzer.com/guide.html) · [Contact](mailto:contact.ironmonanalyzer@gmail.com)**
 
+## Version publique actuelle : 1.0.8
+
+La 1.0.8 corrige le Pokémon suivi à la reprise d’une run lorsque le fichier de pivots désigne un ami CS. Le numéro de run, le chrono, les badges et l’historique sont conservés.
+
+**[Télécharger la version actuelle](https://ironmonanalyzer.com/) · [Toutes les notes de version](https://ironmonanalyzer.com/release-notes.html)**
+
 ## Votre run, au même endroit
 
 - **Pokédex et analyse du profil** : statistiques, estimation des IV, talent, nature, faiblesses et verdict expliqué.
 - **Conseiller d’attaques** : simulation d’un moveset et comparaison de propositions selon les statistiques, les talents, la couverture et les contraintes du mode choisi.
-- **Cartes interactives** : HGSS, Sinnoh et grandes cartes de Noir 2 / Blanc 2, avec repères, filtres et outils de correction et d’annotation.
+- **Cartes interactives** : HGSS, Sinnoh, Noir 2 / Blanc 2, Kanto (Rouge Feu) et Hoenn (Émeraude), avec repères, filtres et outils de correction et d’annotation.
 - **Suivi de progression** : runs, badges, chrono, favoris, GOD RUN, tier lists et Hall of Fame.
 - **Monaris** : une petite récompense pour vos progrès. Franchissez des étapes pendant vos runs, gagnez des boosters et découvrez des cartes à collectionner… et bien plus à venir.
+- **Streaming OBS** : modèle de scène ou blocs séparés, personnalisation et aperçu avant enregistrement.
 - **Confort d’utilisation** : interface en français et en anglais, mode réduit et tutoriel de prise en main.
 
 ![Interface IronMON Analyzer avant le lancement d’une run](images/interface.png)
 
 ## Jeux et installation
 
-La V1 accompagne **Pokémon HeartGold / SoulSilver, Platine et Noir 2 / Blanc 2**.
+La version publique 1.0.8 accompagne **Pokémon HeartGold / SoulSilver, Platine, Noir 2 / Blanc 2, Rouge Feu et Émeraude**.
+
+Les jeux Nintendo DS utilisent le NDS IronMON Tracker. Rouge Feu et Émeraude utilisent le tracker GBA de Besteon avec l’extension Analyzer. La langue et les patches du jeu doivent être compatibles avec le tracker choisi ; consultez le guide.
 
 Elle s’utilise sur **Windows 64 bits**, avec BizHawk et le tracker compatible configurés selon le guide. L’installateur d’Analyzer ne demande pas d’installer Python, Git ou Codex. Aucun jeu ni ROM n’est fourni. Il n’existe pas de version mobile ou tablette.
 

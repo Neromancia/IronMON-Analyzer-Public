@@ -28,7 +28,17 @@ La 1.0.8 corrige le Pokémon suivi à la reprise d’une run lorsque le fichier 
 - **Streaming OBS** : modèle de scène ou blocs séparés, personnalisation et aperçu avant enregistrement.
 - **Confort d’utilisation** : interface en français et en anglais, mode réduit et tutoriel de prise en main.
 
-![Interface IronMON Analyzer avant le lancement d’une run](images/interface.png)
+### Pokédex — une run en cours
+
+![Pokédex avec Nostenfer suivi en direct](images/interface.png)
+
+### Attaques — comparer avant de choisir
+
+![Simulateur et conseiller d’attaques avec Nostenfer](images/attaques.png)
+
+### Tier List — votre classement personnel
+
+![Tier List personnelle de Noir 2 / Blanc 2 avec le Pokémon de la run](images/tier-list.png)
 
 ## Jeux et installation
 

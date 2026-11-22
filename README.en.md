@@ -28,7 +28,17 @@ Version 1.0.8 repairs the tracked Pokémon when resuming a run if the pivot file
 - **OBS streaming**: a scene template or separate blocks, customization and a preview before saving.
 - **An interface that fits your play**: French and English, a reduced layout and a getting-started tutorial.
 
-![IronMON Analyzer before starting a run, shown in French](images/interface.png)
+### Pokédex — a live run
+
+![Pokédex tracking Crobat live, interface shown in French](images/interface.png)
+
+### Moves — compare before choosing
+
+![Moveset simulator and advisor with Crobat, shown in French](images/attaques.png)
+
+### Tier List — your personal rankings
+
+![Personal Black 2 / White 2 Tier List with the current Pokémon, shown in French](images/tier-list.png)
 
 ## Games and installation
 

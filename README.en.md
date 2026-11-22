@@ -4,7 +4,7 @@
   <img src="images/ironmon-analyzer.png" width="300" alt="IronMON Analyzer">
 </p>
 
-# IronMON Analyzer — V1.0.0
+# IronMON Analyzer — V1.0.8
 
 **A free companion for your IronMON runs, developed by Neromancia.**
 
@@ -12,20 +12,29 @@ Track your Pokémon, compare movesets, explore maps and keep a record of your ad
 
 **[Official website and download](https://ironmonanalyzer.com/index.en.html) · [Installation guide](https://ironmonanalyzer.com/guide.en.html) · [Contact](mailto:contact.ironmonanalyzer@gmail.com)**
 
+## Current public version: 1.0.8
+
+Version 1.0.8 repairs the tracked Pokémon when resuming a run if the pivot file points to an HM helper. The run number, timer, badges and history are preserved.
+
+**[Download the current version](https://ironmonanalyzer.com/index.en.html) · [Full release notes](https://ironmonanalyzer.com/release-notes.en.html)**
+
 ## Your run, in one place
 
 - **Pokédex and profile analysis**: stats, IV estimates, ability, nature, weaknesses and an explained verdict.
 - **Moveset advisor**: simulate a moveset and compare suggestions based on stats, abilities, coverage and the rules of your chosen mode.
-- **Interactive maps**: HGSS, Sinnoh and large Black 2 / White 2 maps, with markers, filters, correction tools and annotations.
+- **Interactive maps**: HGSS, Sinnoh, Black 2 / White 2, Kanto (FireRed) and Hoenn (Emerald), with markers, filters, correction tools and annotations.
 - **Progress tracking**: runs, badges, timer, favorites, GOD RUN, tier lists and Hall of Fame.
 - **Monaris**: a small reward for your progress. Reach milestones during your runs, earn booster packs and discover collectible cards… with more to come.
+- **OBS streaming**: a scene template or separate blocks, customization and a preview before saving.
 - **An interface that fits your play**: French and English, a reduced layout and a getting-started tutorial.
 
 ![IronMON Analyzer before starting a run, shown in French](images/interface.png)
 
 ## Games and installation
 
-V1 supports **Pokémon HeartGold / SoulSilver, Platinum and Black 2 / White 2**.
+Public version 1.0.8 supports **Pokémon HeartGold / SoulSilver, Platinum, Black 2 / White 2, FireRed and Emerald**.
+
+Nintendo DS games use the NDS IronMON Tracker. FireRed and Emerald use Besteon’s GBA tracker with the Analyzer extension. Your game language and patches must be compatible with the tracker you choose; see the guide.
 
 It runs on **64-bit Windows**, with BizHawk and a compatible tracker configured as described in the guide. Analyzer's installer does not require Python, Git or Codex. No game or ROM is included. There is no mobile or tablet version.
 

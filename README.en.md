@@ -4,7 +4,7 @@
   <img src="images/ironmon-analyzer.png" width="300" alt="IronMON Analyzer">
 </p>
 
-# IronMON Analyzer — V1.0.8
+# IronMON Analyzer — V1.0.9
 
 **A free companion for your IronMON runs, developed by Neromancia.**
 
@@ -12,9 +12,9 @@ Track your Pokémon, compare movesets, explore maps and keep a record of your ad
 
 **[Official website and download](https://ironmonanalyzer.com/index.en.html) · [Installation guide](https://ironmonanalyzer.com/guide.en.html) · [Contact](mailto:contact.ironmonanalyzer@gmail.com)**
 
-## Current public version: 1.0.8
+## Current public version: 1.0.9
 
-Version 1.0.8 repairs the tracked Pokémon when resuming a run if the pivot file points to an HM helper. The run number, timer, badges and history are preserved.
+Version 1.0.9 adds Black / White, community map corrections and new tools to move markers and enter trainer levels. Assistance is available in the application header. Tier lists include Gen 5 Rotom forms, types, BST and Pokémon descriptions. The move advisor better protects Sketch and no longer rewards Helping Hand for a solo run.
 
 **[Download the current version](https://ironmonanalyzer.com/index.en.html) · [Full release notes](https://ironmonanalyzer.com/release-notes.en.html)**
 
@@ -22,11 +22,11 @@ Version 1.0.8 repairs the tracked Pokémon when resuming a run if the pivot file
 
 - **Pokédex and profile analysis**: stats, IV estimates, ability, nature, weaknesses and an explained verdict.
 - **Moveset advisor**: simulate a moveset and compare suggestions based on stats, abilities, coverage and the rules of your chosen mode.
-- **Interactive maps**: HGSS, Sinnoh, Black 2 / White 2, Kanto (FireRed) and Hoenn (Emerald), with markers, filters, correction tools and annotations.
+- **Interactive maps**: HGSS, Sinnoh, Black / White, Black 2 / White 2, Kanto (FireRed) and Hoenn (Emerald), with markers, filters, correction tools and annotations.
 - **Progress tracking**: runs, badges, timer, favorites, GOD RUN, tier lists and Hall of Fame.
 - **Monaris**: a small reward for your progress. Reach milestones during your runs, earn booster packs and discover collectible cards… with more to come.
 - **OBS streaming**: a scene template or separate blocks, customization and a preview before saving.
-- **An interface that fits your play**: French and English, a reduced layout and a getting-started tutorial.
+- **An interface that fits your play**: French and English, a reduced layout, a getting-started tutorial and tracker connection assistance.
 
 ### Pokédex — a live run
 
@@ -42,7 +42,7 @@ Version 1.0.8 repairs the tracked Pokémon when resuming a run if the pivot file
 
 ## Games and installation
 
-Public version 1.0.8 supports **Pokémon HeartGold / SoulSilver, Platinum, Black 2 / White 2, FireRed and Emerald**.
+Public version 1.0.9 supports **Pokémon HeartGold / SoulSilver, Platinum, Black / White, Black 2 / White 2, FireRed and Emerald**.
 
 Nintendo DS games use the NDS IronMON Tracker. FireRed and Emerald use Besteon’s GBA tracker with the Analyzer extension. Your game language and patches must be compatible with the tracker you choose; see the guide.
 

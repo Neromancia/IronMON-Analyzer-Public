@@ -4,7 +4,7 @@
   <img src="images/ironmon-analyzer.png" width="300" alt="IronMON Analyzer">
 </p>
 
-# IronMON Analyzer — V1.0.9
+# IronMON Analyzer — V1.0.10
 
 **Un compagnon gratuit pour vos runs IronMON, développé par Neromancia.**
 
@@ -12,9 +12,9 @@ Suivez votre Pokémon, comparez vos attaques, explorez les cartes et gardez une 
 
 **[Site officiel et téléchargement](https://ironmonanalyzer.com/) · [Guide d’installation](https://ironmonanalyzer.com/guide.html) · [Contact](mailto:contact.ironmonanalyzer@gmail.com)**
 
-## Version publique actuelle : 1.0.9
+## Version 1.0.10 — publication en préparation
 
-La 1.0.9 ajoute Noir / Blanc, les cartes corrigées par la communauté et de nouveaux outils pour déplacer les repères et saisir les niveaux. L’assistance est accessible en haut de l’application. Les tier lists affichent les formes de Motisma en 5G, les types, le BST et les descriptions des Pokémon. Le conseiller protège mieux Gribouille et ne valorise plus Coup d’Main pour une run en solo.
+La 1.0.10 améliore la recherche des attaques en français et en anglais, ajoute les confirmations centrales de reset et de pivot, et harmonise l’interface. L’assistance et le tutoriel sont actualisés pour les trackers Nintendo DS/GBA, les langues, les patches et les changements de jeu. Aucun patch de ROM ni tracker personnel modifié n’est installé par cette mise à jour.
 
 **[Télécharger la version actuelle](https://ironmonanalyzer.com/) · [Toutes les notes de version](https://ironmonanalyzer.com/release-notes.html)**
 
@@ -42,7 +42,7 @@ La 1.0.9 ajoute Noir / Blanc, les cartes corrigées par la communauté et de nou
 
 ## Jeux et installation
 
-La version publique 1.0.9 accompagne **Pokémon HeartGold / SoulSilver, Platine, Noir / Blanc, Noir 2 / Blanc 2, Rouge Feu et Émeraude**.
+La version publique 1.0.10 accompagne **Pokémon HeartGold / SoulSilver, Platine, Noir / Blanc, Noir 2 / Blanc 2, Rouge Feu et Émeraude**.
 
 Les jeux Nintendo DS utilisent le NDS IronMON Tracker. Rouge Feu et Émeraude utilisent le tracker GBA de Besteon avec l’extension Analyzer. La langue et les patches du jeu doivent être compatibles avec le tracker choisi ; consultez le guide.
 

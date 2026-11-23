@@ -4,7 +4,7 @@
   <img src="images/ironmon-analyzer.png" width="300" alt="IronMON Analyzer">
 </p>
 
-# IronMON Analyzer — V1.0.9
+# IronMON Analyzer — V1.0.10
 
 **A free companion for your IronMON runs, developed by Neromancia.**
 
@@ -12,9 +12,9 @@ Track your Pokémon, compare movesets, explore maps and keep a record of your ad
 
 **[Official website and download](https://ironmonanalyzer.com/index.en.html) · [Installation guide](https://ironmonanalyzer.com/guide.en.html) · [Contact](mailto:contact.ironmonanalyzer@gmail.com)**
 
-## Current public version: 1.0.9
+## Version 1.0.10 — publication in preparation
 
-Version 1.0.9 adds Black / White, community map corrections and new tools to move markers and enter trainer levels. Assistance is available in the application header. Tier lists include Gen 5 Rotom forms, types, BST and Pokémon descriptions. The move advisor better protects Sketch and no longer rewards Helping Hand for a solo run.
+Version 1.0.10 improves French and English move search, adds central reset and pivot confirmations, and refreshes the interface. Assistance and the tutorial now cover Nintendo DS/GBA trackers, languages, patches and switching games. This update does not install ROM patches or personal tracker modifications.
 
 **[Download the current version](https://ironmonanalyzer.com/index.en.html) · [Full release notes](https://ironmonanalyzer.com/release-notes.en.html)**
 
@@ -42,7 +42,7 @@ Version 1.0.9 adds Black / White, community map corrections and new tools to mov
 
 ## Games and installation
 
-Public version 1.0.9 supports **Pokémon HeartGold / SoulSilver, Platinum, Black / White, Black 2 / White 2, FireRed and Emerald**.
+Public version 1.0.10 supports **Pokémon HeartGold / SoulSilver, Platinum, Black / White, Black 2 / White 2, FireRed and Emerald**.
 
 Nintendo DS games use the NDS IronMON Tracker. FireRed and Emerald use Besteon’s GBA tracker with the Analyzer extension. Your game language and patches must be compatible with the tracker you choose; see the guide.
 

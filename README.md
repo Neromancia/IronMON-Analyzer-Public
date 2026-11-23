@@ -12,7 +12,7 @@ Suivez votre Pokémon, comparez vos attaques, explorez les cartes et gardez une 
 
 **[Site officiel et téléchargement](https://ironmonanalyzer.com/) · [Guide d’installation](https://ironmonanalyzer.com/guide.html) · [Contact](mailto:contact.ironmonanalyzer@gmail.com)**
 
-## Version 1.0.10 — publication en préparation
+## Version 1.0.10 — disponible
 
 La 1.0.10 améliore la recherche des attaques en français et en anglais, ajoute les confirmations centrales de reset et de pivot, et harmonise l’interface. L’assistance et le tutoriel sont actualisés pour les trackers Nintendo DS/GBA, les langues, les patches et les changements de jeu. Les IV des pivots précoces sur Platine se précisent jusqu’au niveau 10 ; les pivots tardifs conservent leur première mesure réelle, notamment au niveau 11 sur Noir 2 / Blanc 2 et au niveau 23 sur Platine. Aucun patch de ROM ni tracker personnel modifié n’est installé par cette mise à jour.
 

@@ -14,7 +14,7 @@ Track your Pokémon, compare movesets, explore maps and keep a record of your ad
 
 ## Version 1.0.10 — publication in preparation
 
-Version 1.0.10 improves French and English move search, adds central reset and pivot confirmations, and refreshes the interface. Assistance and the tutorial now cover Nintendo DS/GBA trackers, languages, patches and switching games. This update does not install ROM patches or personal tracker modifications.
+Version 1.0.10 improves French and English move search, adds central reset and pivot confirmations, and refreshes the interface. Assistance and the tutorial now cover Nintendo DS/GBA trackers, languages, patches and switching games. Early Platinum IV references advance to level 10; later pivots retain their first real measurement, including level-11 Black 2 / White 2 pivots and level-23 Platinum pivots. This update does not install ROM patches or personal tracker modifications.
 
 **[Download the current version](https://ironmonanalyzer.com/index.en.html) · [Full release notes](https://ironmonanalyzer.com/release-notes.en.html)**
 
